@@ -18,6 +18,9 @@ Evaluate revenue contribution by Product Category
 Identify seasonal trends in monthly sales
 Enable interactive reporting using slicers
 
+--- 
+<img width="579" height="327" alt="image" src="https://github.com/user-attachments/assets/f9682483-d734-4fdd-a9d1-8bd2d3a55b7d" />
+
 ## 🧰 Tools & Technologies Used
 
 Power BI Desktop
